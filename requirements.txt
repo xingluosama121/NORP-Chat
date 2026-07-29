@@ -1,0 +1,11 @@
+pywebview>=4.0
+openai>=1.0
+pywin32
+anthropic>=0.30
+keyring
+requests
+
+# 可选依赖 - 文件解析功能
+# python-docx    # 用于 .docx 文件解析
+# openpyxl       # 用于 .xlsx 文件解析
+# PyPDF2         # 用于 .pdf 文件解析
